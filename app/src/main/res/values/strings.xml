@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Inventarios</string>
+    <string name="iniciarinventario">Iniciar Inventario</string>
+    <string name="codigoplu">Código PLU</string>
+    <string name="descripcion">Descripción</string>
+    <string name="sucursal">Sucursal</string>
+    <string name="productodet">Detalle Producto</string>
+    <string name="seleccionar">Seleccionar</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="exportar">Exportar excel</string>
+    <string name="reporte">Reporte de Inventario</string>
+</resources>
